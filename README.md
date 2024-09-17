@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @devendra7488.
-- 👀 I’m interested in website designing.
-- 🌱 I’m currently learning and  working on both the frontend and backend aspects of a web application.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Devendra Kumar.
+- 👀 I’m interested in Data Science .
+- 🌱 I’m currently  Seeking an entry-level data science position where I can utilize my analytical and programming skills to contribute to impactful business
+      solutions. Eager to learn and grow within a dynamic and innovative environment
+- 💞️ I’m looking to collaborate on  Data Science Projects 
+- 📫 How to reach me M.no-7488628473 , Email id-devmalik9955@gmail.com
 
 <!---
 devendra7488/devendra7488 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
